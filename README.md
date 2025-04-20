@@ -25,3 +25,7 @@ This project is a modern real estate website built using HTML and CSS. It showca
 
 ### Footer
 ![Footer](output/Screenshot%20(371).png)
+
+## Deployment
+
+You can view the live project here: [Real Estate Website](https://amanhaidry.github.io/Realstate/)
